@@ -1,16 +1,25 @@
-# Skyline - a bot with many commands that make a lot of fun while using
+# Wumpus- a bot with many commands that make a lot of fun while using
+
+Wumpus - a bot with many commands that make a lot of fun while using
 
 Prefix: . or custom
 
 Many possible
 
-Administration Economy Fun General Images Moderation
+Administration
+Economy
+Fun
+General
+Images
+Moderation
+Music
 
-https://discord.gg/trezh9GQy9 for Support
+https://discord.gg/w73VdMnYxm for Support
 
-Check out www.skylinebot.ga
+Check out www.wumpusbot.ga
 
-Commands: addcommand, addemoji, automod, autorole, backup, configuration, delcommand, deletemod, goodbye, ignore, setlang, setmodlogs, setprefix, setreports, setsuggests, slowmode, welcome
+Commands:
+addcommand, addemoji, automod, autorole, backup, configuration, delcommand, deletemod, goodbye, ignore, setlang, setmodlogs, setprefix, setreports, setsuggests, slowmode, welcome
 
 achievements, birthdate, deposit, divorce, leaderboard, marry, money, pay, profile, rep, rob, setbio, slots, withdraw, work
 
@@ -22,8 +31,9 @@ avatar, captcha, clyde, facepalm, fire, jail, love, mission, phcomment, qrcode, 
 
 announcement, ban, checkinvites, clear-sanctions, clear, giveaway, kick, mute, poll, sanctions, setwarns, unban, unmute, warn
 
--SkyAlumny#2488
 
-https://top.gg/bot/800344695069999144
+back, filter, filters, lyrics, np, pause, play, queue, resume, skip, stop
 
-[![Discord Bots](https://top.gg/api/widget/status/800344695069999144.svg)](https://top.gg/bot/800344695069999144)
+
+
+[![Discord Bots](https://top.gg/api/widget/800344695069999144.svg)](https://top.gg/bot/800344695069999144)
