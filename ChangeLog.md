@@ -1,6 +1,13 @@
 # ChangeLog
 
 
-#Version 1.0.0 Beta
+#Version 1.0.1 Beta
 
 --------------------
+
+
+New command:
+
+"say"
+"mutevoice"
+"unmutevoice"
