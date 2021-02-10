@@ -1,3 +1,4 @@
+// mutevoice command from wumple
 const Command = require("../../base/Command.js");
 	Discord = require("discord.js");
 
@@ -28,7 +29,7 @@ class Mutevoice extends Command {
 				.setColor('#8998f7')
 				.setFooter('Wumpus Land | inv.dbwump.ga')
 				.setTimestamp()
-        .setAuthor('Success')
+       				 .setAuthor('Success')
 				.setDescription('everyone is muted now | use .unmutevoice to unmuted everyone ');
             
 			message.channel.send(embed);
