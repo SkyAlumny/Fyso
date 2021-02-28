@@ -5,7 +5,7 @@ Prefix: . or custom
 
 
 
-https://discord.gg/w73VdMnYxm for Support
+[Click here](https://discord.gg/XK6NG8Wb66) for Support
 
 Check out www.fyso.ga
 
