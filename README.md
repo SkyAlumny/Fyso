@@ -1,39 +1,17 @@
-# Wumpus- a bot with many commands that make a lot of fun while using
-
-Wumpus - a bot with many commands that make a lot of fun while using
+# Fyso  a bot that will make your discord server better!
+# this is __not__ the full source
 
 Prefix: . or custom
 
-Many possible
 
-Administration
-Economy
-Fun
-General
-Images
-Moderation
-Music
 
 https://discord.gg/w73VdMnYxm for Support
 
-Check out www.wumpusbot.ga
-
-Commands:
-addcommand, addemoji, automod, autorole, backup, configuration, delcommand, deletemod, goodbye, ignore, setlang, setmodlogs, setprefix, setreports, setsuggests, slowmode, welcome
-
-achievements, birthdate, deposit, divorce, leaderboard, marry, money, pay, profile, rep, rob, setbio, slots, withdraw, work
-
-ascii, findwords, flip, fml, joke, lmg, lovecalc, number
-
-calc, hastebin, help, invitations, invite, minecraft, permissions, ping, quote, remindme, report, serverinfo, setafk, shorturl, someone, staff, stats, suggest, translate, userinfo
-
-avatar, captcha, clyde, facepalm, fire, jail, love, mission, phcomment, qrcode, rip, scary, tobecontinued, triggered, tweet, wanted, wasted
-
-announcement, ban, checkinvites, clear-sanctions, clear, giveaway, kick, mute, poll, sanctions, setwarns, unban, unmute, warn
-
-
-back, filter, filters, lyrics, np, pause, play, queue, resume, skip, stop
+Check out www.fyso.ga
 
 
 
-[![Discord Bots](https://top.gg/api/widget/800344695069999144.svg)](https://top.gg/bot/800344695069999144)
+Hi! that's me fyso. I am always at your disposal, my servers are of good quality to be able to answer you quickly! I can make a lot possible for you you can listen to music with Fyso, for example, with many filters to boost your song, but I'm not just a cool DJ I help where I can in the server with my moderation commands you can quickly and easily have your server under control . you can also expand your server with a suggestion report system. oh did i tell you? i can speak many languages ​​and your language is sure to be there too! But are you here to keep your server active? no problem i can do a lot of funny things that keep your members dripped. I also have a website https://www.fyso.ga you can better hire me here. it would be no problem for me to add your own little commands. still not convinced? then invite me to your server and see all my functions i am sure i will convince you! don't forget all things are offered to you for free you don't have to pay for anything with me
+
+
+[![Discord Bots](https://top.gg/api/widget/status/800344695069999144.svg)](https://top.gg/bot/800344695069999144)
