@@ -1,5 +1,5 @@
 # Fyso  a bot that will make your discord server better!
-# this is __not__ the full source
+# THIS IS NOT THE FULL SOURCE CODE
 
 Prefix: . or custom
 
